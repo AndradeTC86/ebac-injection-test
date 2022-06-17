@@ -39,7 +39,7 @@ The tests were written using the JavaScript language with Jest.
 
 1. Requires node. To install, execute `npm install node` or download [Node](https://nodejs.org/en/download/)
 2. Run the command `npm install` to install dependencies
-3. Run the command `docker-compose up -d` to initialize the database in Docker,
+3. Run the command `docker-compose up -d` to initialize the database in Docker
 
 ### Run Tests
 
