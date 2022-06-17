@@ -1,4 +1,4 @@
-# ebac-injection-test
+# Ebac Injection Test
 
 # Automation Security Test with Jest
 
